@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Vedha
 
-<!--
-**PearlPearl/PearlPearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | C# & .NET
 
-Here are some ideas to get you started:
+I build backend applications and APIs with a focus on clean, maintainable and scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 About Me
+
+🔭 Currently building: Scalable backend solutions with C# & .NET
+🤝 Open to: Collaborating on interesting .NET / open-source projects
+🆘 Always improving: System design, clean architecture & cloud technologies
+🌱 Currently learning: New technologies that make developers' lives easier
+💬 Ask me about: C#, .NET, Web APIs, backend development & software engineering
+⚡ Fun fact: I don't always write bugs, but when I do, they somehow make it to production. 😄
