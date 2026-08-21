@@ -73,3 +73,12 @@ Tech: C# · .NET · ASP.NET Core · Web API · Angular · TypeScript · SQL Serv
 I'm currently exploring and contributing to .NET open-source projects, with a focus on backend development, APIs, tooling and developer-focused projects.
 
 🔎 Goal: Contribute consistently, learn from experienced maintainers, and build software that others can use.
+
+
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pearlpearl&show_icons=true&theme=dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pearlpearl&layout=compact&theme=dark&hide_border=true" height="165">
+</p>
