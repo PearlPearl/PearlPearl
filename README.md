@@ -65,3 +65,11 @@ My contribution:
 - 🔹 Troubleshoot production issues and improve application reliability
 
 Tech: C# · .NET · ASP.NET Core · Web API · Angular · TypeScript · SQL Server · MongoDB · Redis · Elasticsearch · Azure · Docker
+
+
+
+🌱 Open Source
+
+I'm currently exploring and contributing to .NET open-source projects, with a focus on backend development, APIs, tooling and developer-focused projects.
+
+🔎 Goal: Contribute consistently, learn from experienced maintainers, and build software that others can use.
