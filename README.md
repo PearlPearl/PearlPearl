@@ -45,3 +45,23 @@ Backend
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">Other
 
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+
+
+🚀 Featured Professional Project
+
+✈️ Travel Booking & Distribution Platform
+
+A multi-product travel technology platform supporting B2B and B2C booking workflows across flights, hotels, ferry services, holiday packages, visa services and other travel products.
+
+My contribution:
+
+- 🔹 Develop and maintain frontend applications using Angular and TypeScript
+- 🔹 Develop and maintain backend services using C# and .NET
+- 🔹 Design and implement REST APIs and business workflows
+- 🔹 Work with SQL Server and other data technologies
+- 🔹 Implement booking, transaction and business logic
+- 🔹 Work with caching, search and performance-related components
+- 🔹 Support Azure and Docker-based development/deployment workflows
+- 🔹 Troubleshoot production issues and improve application reliability
+
+Tech: C# · .NET · ASP.NET Core · Web API · Angular · TypeScript · SQL Server · MongoDB · Redis · Elasticsearch · Azure · Docker
