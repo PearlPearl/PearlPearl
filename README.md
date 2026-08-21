@@ -54,7 +54,10 @@ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-</p>---
+</p>
+
+---
+
 
 🚀 Featured Professional Project
 
@@ -85,9 +88,3 @@ I'm currently exploring and contributing to .NET open-source projects, with a fo
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pearlpearl&show_icons=true&theme=dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pearlpearl&layout=compact&theme=dark&hide_border=true" height="165">
-</p>
