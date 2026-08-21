@@ -86,5 +86,4 @@ I'm currently exploring and contributing to .NET open-source projects, with a fo
 
 🔎 Goal: Contribute consistently, learn from experienced maintainers, and build software that others can use.
 
----
 
